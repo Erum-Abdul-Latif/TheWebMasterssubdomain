@@ -1,0 +1,8 @@
+------Todo's-------
+
+1) Update Carousel Images
+2) Update Content (everywhere required lorem ipsum mentioned)
+3) Update "Who Are We" (Image Update )
+4) Position ExCom Hierarchy Correctly.
+5) Disable The Button Where Mentioned. (Line 494--> File 'index.html', inside Button Tag write 'disabled' when all work finished )
+
